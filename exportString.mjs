@@ -1,0 +1,1 @@
+export const  value ="Be Happy and Safe";
